@@ -1,0 +1,45 @@
+============================================================================
+DATE
+lun 30 mar 16:45:13 CST 2026
+============================================================================
+USER
+kira
+============================================================================
+SYSTEM INFO
+Linux cachyos-tatooine 6.19.10-1-cachyos #1 SMP PREEMPT_DYNAMIC Wed, 25 Mar 2026 23:30:07 +0000 x86_64 GNU/Linux
+============================================================================
+UPTIME
+ 16:45:13 up  6:11,  1 user,  load average: 1,12, 0,41, 0,19
+============================================================================
+FREE SPACE
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  110G   18G   87G  17% /
+devtmpfs        7,7G     0  7,7G   0% /dev
+tmpfs           7,7G   25M  7,7G   1% /dev/shm
+efivarfs        192K   91K   97K  49% /sys/firmware/efi/efivars
+tmpfs           3,1G  2,1M  3,1G   1% /run
+none            1,0M     0  1,0M   0% /run/credentials/systemd-journald.service
+none            1,0M     0  1,0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p4   74G   41G   30G  58% /home
+tmpfs           7,7G   22M  7,7G   1% /tmp
+/dev/nvme0n1p8  196G  144G   43G  78% /mnt/vms
+/dev/nvme0n1p9  295G   40K  280G   1% /mnt/kira_games
+/dev/nvme0n1p3  1,1G  5,6M  1,1G   1% /boot/efi
+/dev/sda3       880G  7,1G  828G   1% /mnt/meg_games
+/dev/sdb2       3,7T  830G  2,9T  23% /mnt/data
+tmpfs           1,6G  100K  1,6G   1% /run/user/1000
+============================================================================
+MEMORY
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       7,2Gi       2,2Gi       1,6Gi       6,9Gi       8,1Gi
+Swap:           15Gi       296Ki        15Gi
+============================================================================
+CPU
+CPU(s):                                  12
+On-line CPU(s) list:                     0-11
+Model name:                              Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+CPU(s) scaling MHz:                      79%
+CPU max MHz:                             4300,0000
+CPU min MHz:                             800,0000
+NUMA node0 CPU(s):                       0-11
+============================================================================
